@@ -13,7 +13,7 @@
   ],
   "layers": [
     [
-           "&kp GRAVE", "&kp LEFT_BRACKET", "&kp LEFT_BRACE", "&kp RIGHT_BRACE", "&kp KP_LPAR", "&kp KP_EQUAL",              "&none",                                                                             "&mo 3", "&kp KP_ASTERISK", "&kp KP_RIGHT_PARENTHESIS", "&kp KP_PLUS", "&kp RIGHT_BRACKET", "&kp EXCLAMATION",   "&kp HASH",
+           "&kp GRAVE", "&kp LEFT_BRACKET", "&kp LEFT_BRACE", "&kp RIGHT_BRACE", "&kp KP_LPAR", "&kp KP_EQUAL",              "&mo 4",                                                                             "&mo 3", "&kp KP_ASTERISK", "&kp KP_RIGHT_PARENTHESIS", "&kp KP_PLUS", "&kp RIGHT_BRACKET", "&kp EXCLAMATION",   "&kp HASH",
        "&kp BACKSLASH",         "&kp SEMI",      "&kp COMMA",         "&kp DOT",       "&kp P",        "&kp Y",              "&none",                                                                             "&none",           "&kp F",                    "&kp G",       "&kp C",             "&kp R",           "&kp L",  "&kp SLASH",
        "&kp AMPERSAND",            "&kp A",          "&kp O",           "&kp E",       "&kp U",        "&kp I",              "&mo 2", "&kp LCTRL",   "&kp LALT",                     "&kp LGUI", "&kp RCTRL",     "&mo 2",           "&kp D",                    "&kp H",       "&kp T",             "&kp N",           "&kp S",  "&kp MINUS",
            "&kp LSHFT", "&kp SINGLE_QUOTE",          "&kp Q",           "&kp J",       "&kp K",        "&kp X",                                      "&kp CAPS",                      "&kp END",                                     "&kp B",                    "&kp M",       "&kp W",             "&kp V",           "&kp Z", "&kp RSHIFT",
@@ -43,17 +43,17 @@
        "&kp LSHFT",     "&kp Z",    "&kp X",    "&kp C",     "&kp V",  "&kp B",                                    "&kp HOME",                     "&kp PG_UP",                            "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
            "&mo 2", "&kp GRAVE", "&kp CAPS", "&kp LEFT", "&kp RIGHT",                     "&kp BSPC",   "&kp DEL",  "&kp END",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ], [
-      "&none","&none","&none","&none","&none","&none",           "&none",                                                     "&none",           "&none","&none","&none","&none","&none","&none",
-      "&none","&none","&none","&none","&none","&none",           "&none",                                                     "&none",           "&none","&none","&none","&none","&none","&none",
-      "&none","&none","&none","&none","&none","&none",           "&none","&none","&none",                     "&none","&none","&none",           "&none","&none","&none","&none","&none","&none",
-      "&none","&none","&none","&none","&none","&none",                               "&none",                     "&none",                       "&none","&none","&none","&none","&none","&none",
-      "&none","&none","&none","&none","&none",                     "&none","&none","&none",                     "&none","&none","&none",                 "&none","&none","&none","&none","&none"
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",                                                              "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",                                                              "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                               "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",                     "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
     ], [
-       "&none","&none","&none","&none","&none","&none",           "&none",                                                     "&none",           "&none","&none","&none","&none","&none","&none",
-       "&none","&none","&none","&none","&none","&none",           "&none",                                                     "&none",           "&none","&none","&none","&none","&none","&none",
-       "&none","&none","&none","&none","&none","&none",           "&none","&none","&none",                     "&none","&none","&none",           "&none","&none","&none","&none","&none","&none",
-       "&none","&none","&none","&none","&none","&none",                               "&none",                     "&none",                       "&none","&none","&none","&none","&none","&none",
-       "&none","&none","&none","&none","&none",                     "&none","&none","&none",                     "&none","&none","&none",                 "&none","&none","&none","&none","&none"
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",                                                              "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",                                                              "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                               "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",                     "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
     ]
   ]
 }
