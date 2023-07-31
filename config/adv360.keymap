@@ -89,21 +89,21 @@
 
         layer_brackets {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+                        &none &none &none &none &none &none            &none                                              &none            &none &none &none &none &none &none
+                        &none &none &none &none &none &none            &none                                              &none            &none &none &none &none &none &none
+                        &none &none &none &none &none &none            &none &none &none                      &none &none &none            &none &none &none &none &none &none 
+                        &none &none &none &none &none &none                          &none                      &none                      &none &none &none &none &none &none 
+                        &none &none &none &none &none                      &none &none &none                      &none &none &none              &none &none &none &none &none
             >;
         };
 
         layer_none {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+                        &none &none &none &none &none &none            &none                                              &none            &none &none &none &none &none &none
+                        &none &none &none &none &none &none            &none                                              &none            &none &none &none &none &none &none
+                        &none &none &none &none &none &none            &none &none &none                      &none &none &none            &none &none &none &none &none &none 
+                        &none &none &none &none &none &none                          &none                      &none                      &none &none &none &none &none &none 
+                        &none &none &none &none &none                      &none &none &none                      &none &none &none              &none &none &none &none &none
             >;
         };
 
