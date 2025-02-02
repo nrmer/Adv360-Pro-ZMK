@@ -106,5 +106,16 @@
             >;
         };
 
+
+        windows_reserve {
+            bindings = <
+         &none             &none   &kp AMPS  &kp EXCLAMATION   &kp HASH  &kp EQUAL               &to 5                                                                  &mo 3  &kp ASTERISK  &kp PLUS  &kp EQUAL     &kp END        &none  &kp PRINTSCREEN
+ &kp BACKSLASH          &kp SEMI  &kp COMMA          &kp DOT      &kp P      &kp Y               &none                                                                  &none         &kp F     &kp G      &kp C       &kp R        &kp L        &kp SLASH
+     &kp GRAVE             &kp A      &kp O            &kp E      &kp U      &kp I               &mo 2  &kp LCTRL    &kp LALT                  &kp LGUI  &kp RCTRL      &mo 2         &kp D     &kp H      &kp T       &kp N        &kp S        &kp MINUS
+     &kp LSHFT  &kp SINGLE_QUOTE      &kp Q            &kp J      &kp K      &kp X                                   &kp CAPS                   &kp END                               &kp B     &kp M      &kp W       &kp V        &kp Z       &kp RSHIFT
+         &mo 1         &kp CARET     &kp AT         &kp LEFT  &kp RIGHT                       &kp BSPC    &kp DEL  &kp ESCAPE                   &kp TAB  &kp ENTER  &kp SPACE                &kp DOWN     &kp UP  &kp DOLLAR  &kp PERCENT            &mo 4
+            >;
+        };
+
     };
 };
