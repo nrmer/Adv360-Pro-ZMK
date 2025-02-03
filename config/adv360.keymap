@@ -34,11 +34,11 @@
 
         default_layer {
             bindings = <
-&none      &none             &kp AMPS   &kp EXCL  &kp HASH   &kp EQUAL  &mo 5                                                           &mo 3      &kp ASTRK  &kp PLUS        &kp EQUAL     &kp END     &none        &none
-&kp TAB    &kp SEMI          &kp COMMA  &kp DOT   &kp P      &kp Y      &none                                                           &none      &kp F      &kp G           &kp C         &kp R       &kp L        &kp SLASH
-&kp GRAVE  &kp A             &kp O      &kp E     &kp U      &kp I      &mo 2          &none       &none           &kp LGUI  &none      &mo 2      &kp D      &kp H           &kp T         &kp N       &kp S        &kp MINUS
-&kp LSHFT  &kp SINGLE_QUOTE  &kp Q      &kp J     &kp K      &kp X                                 &kp CAPS        &kp END                         &kp B      &kp M           &kp W         &kp V       &kp Z        &kp RSHFT
-&mo 1      &kp CARET         &kp AT     &kp LEFT  &kp RIGHT             &kp BACKSPACE  &kp DELETE  &kp ESCAPE      &kp TAB   &kp ENTER  &kp SPACE             &kp DOWN_ARROW  &kp UP_ARROW  &kp DOLLAR  &kp PERCENT  &mo 4
+&none      &none             &kp AMPS   &kp EXCL  &kp HASH   &kp EQUAL  &mo 5                                                                   &mo 3      &kp ASTRK  &kp PLUS        &kp EQUAL     &kp END     &none        &none
+&kp TAB    &kp SEMI          &kp COMMA  &kp DOT   &kp P      &kp Y      &none                                                                   &none      &kp F      &kp G           &kp C         &kp R       &kp L        &kp SLASH
+&kp GRAVE  &kp A             &kp O      &kp E     &kp U      &kp I      &mo 2          &kp LEFT_CONTROL  &kp LEFT_ALT      &kp LGUI  &kp GLOBE  &mo 2      &kp D      &kp H           &kp T         &kp N       &kp S        &kp MINUS
+&kp LSHFT  &kp SINGLE_QUOTE  &kp Q      &kp J     &kp K      &kp X                                       &kp CAPS          &kp END                         &kp B      &kp M           &kp W         &kp V       &kp Z        &kp RSHFT
+&mo 1      &kp CARET         &kp AT     &kp LEFT  &kp RIGHT             &kp BACKSPACE  &kp DELETE        &kp ESCAPE        &kp TAB   &kp ENTER  &kp SPACE             &kp DOWN_ARROW  &kp UP_ARROW  &kp DOLLAR  &kp PERCENT  &mo 4
             >;
         };
 
@@ -54,11 +54,11 @@
 
         layer_fn {
             bindings = <
-&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &none                                                    &none       &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
-&trans  &trans  &trans  &trans  &trans  &trans  &none                                                    &none       &trans  &trans  &trans  &trans   &trans   &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &none   &trans  &bootloader      &bt BT_CLR  &trans      &none       &trans  &trans  &trans  &trans   &trans   &trans
-&trans  &trans  &trans  &trans  &trans  &trans                  &trans           &trans                              &trans  &trans  &trans  &trans   &trans   &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans           &trans      &bt BT_PRV  &bt BT_NXT          &trans  &trans  &trans   &trans   &trans
+&kp F1   &kp F2   &kp F3   &kp F4   &kp F5   &kp F6   &none                                                    &none       &kp F7   &kp F8   &kp F9   &kp F10  &kp F11  &kp F12
+&kp F13  &kp F14  &kp F15  &kp F16  &kp F17  &kp F18  &none                                                    &none       &kp F19  &kp F20  &kp F21  &kp F22  &kp F23  &kp F24
+&trans   &trans   &trans   &trans   &trans   &trans   &none   &trans  &bootloader      &bt BT_CLR  &trans      &none       &trans   &trans   &trans   &trans   &trans   &trans
+&trans   &trans   &trans   &trans   &trans   &trans                   &trans           &trans                              &trans   &trans   &trans   &trans   &trans   &trans
+&trans   &trans   &trans   &trans   &trans            &trans  &trans  &trans           &trans      &bt BT_PRV  &bt BT_NXT           &trans   &trans   &trans   &trans   &trans
             >;
         };
 
